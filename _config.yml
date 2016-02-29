@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1574505
+  lightness: 0.6594652
+  brandStrength: 0.9480287
+  brandColors:
+    - '#201D16'
+    - '#88A339'
+    - '#FFFFE9'
+    - '#E9C6A3'
+    - '#7988AC'
+  rhythmicContrast: 0.4253467
+typography_spectrum: 0.2491039
+name: Bloomerang Native Gardens
