@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'A water wise garden design and maintenance firm. '
 cta:
   domain: null
   bucket: null
