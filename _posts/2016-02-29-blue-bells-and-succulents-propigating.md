@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-29T23:18:20.974Z'
+datePublished: '2016-03-01T03:58:15.868Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Blue Bells and Succulents Propigating
-dateModified: '2016-02-29T22:52:41.120Z'
+dateModified: '2016-03-01T03:58:04.153Z'
 sourcePath: _posts/2016-02-29-blue-bells-and-succulents-propigating.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
