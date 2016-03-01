@@ -10,9 +10,10 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.2491039
 color:
   saturation: 0
-  brandStrength: 0.4713262
+  brandStrength: 0.8637993
   lightness: 0.01792115
   brandColors:
     - '#201D16'
@@ -21,6 +22,5 @@ color:
     - '#E9C6A3'
     - '#7988AC'
   rhythmicContrast: 0.5483871
-typography_spectrum: 0.2491039
 layout_spectrum: 1
 name: Bloomerang Native Gardens
