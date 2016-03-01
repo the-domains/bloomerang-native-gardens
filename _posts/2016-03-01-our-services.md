@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T05:33:22.789Z'
-dateModified: '2016-03-01T05:32:57.956Z'
+datePublished: '2016-03-01T05:37:26.360Z'
+dateModified: '2016-03-01T05:35:18.339Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-01-our-services.md
@@ -22,8 +22,6 @@ url: our-services/index.html
 _type: WebPage
 
 ---
-Services Offered
-
 Design 
 
 Irrigation 
