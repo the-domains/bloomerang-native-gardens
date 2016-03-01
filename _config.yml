@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2491039
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.1021505
 color:
   saturation: 0.5125448
   brandStrength: 0
-  lightness: 0.5412186
+  rhythmicContrast: 0.4910394
   brandColors:
     - '#201D16'
     - '#88A339'
     - '#FFFFE9'
     - '#E9C6A3'
     - '#7988AC'
-  rhythmicContrast: 0.4910394
+  lightness: 0.5412186
 layout_spectrum: 1
 name: Bloomerang Native Gardens
