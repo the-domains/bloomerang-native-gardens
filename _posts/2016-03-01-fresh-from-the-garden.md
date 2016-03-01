@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Broccoli '
-datePublished: '2016-03-01T04:46:44.016Z'
-dateModified: '2016-03-01T04:45:40.250Z'
+datePublished: '2016-03-01T04:58:27.490Z'
+dateModified: '2016-03-01T04:58:27.026Z'
 title: Fresh From The Garden
 author: []
+sourcePath: _posts/2016-03-01-fresh-from-the-garden.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-fresh-from-the-garden.md
-published: true
 url: fresh-from-the-garden/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/180166d2-d26d-41f4-8179-dcf6781b3758.jpg)
