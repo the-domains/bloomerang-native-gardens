@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.2491039
 color:
-  saturation: 1
-  brandStrength: 0.8637993
-  lightness: 0.9265233
+  saturation: 0.5125448
+  brandStrength: 0
+  lightness: 0.5412186
   brandColors:
     - '#201D16'
     - '#88A339'
     - '#FFFFE9'
     - '#E9C6A3'
     - '#7988AC'
-  rhythmicContrast: 0.1505376
+  rhythmicContrast: 0.4910394
 layout_spectrum: 1
 name: Bloomerang Native Gardens
