@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-01T05:21:47.711Z'
-dateModified: '2016-03-01T05:20:35.329Z'
+datePublished: '2016-03-01T05:39:06.091Z'
+dateModified: '2016-03-01T05:38:00.106Z'
 author: []
 title: Blue Bells and Succulents Propigating
 sourcePath: _posts/2016-02-29-blue-bells-and-succulents-propigating.md
