@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T00:05:35.664Z'
-dateModified: '2016-03-02T00:05:28.269Z'
-title: Portfolio
+datePublished: '2016-03-02T00:17:48.309Z'
+dateModified: '2016-03-02T00:17:47.386Z'
+title: 'Portfolio '
 author: []
 authors: []
 publisher:
@@ -22,4 +22,4 @@ url: portfolio/index.html
 _type: WebPage
 
 ---
-Below are samples of our work
+Below are samples of a number of projects we have installed and renovated over the last couple years. If anything catches your eye for your next renovation shoot is a message and we would be happy to discuss your ideas.
