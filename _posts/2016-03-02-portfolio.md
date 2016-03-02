@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T00:56:25.707Z'
-dateModified: '2016-03-02T00:56:19.190Z'
+datePublished: '2016-03-02T00:58:49.602Z'
+dateModified: '2016-03-02T00:58:33.330Z'
 title: 'Portfolio '
 author: []
 sourcePath: _posts/2016-03-02-portfolio.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 Below are samples of a number of projects we have installed and renovated over the last couple years. If anything catches your eye for your next renovation shoot is a message and we would be happy to discuss your ideas.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89b75d8-aa10-42f2-851f-a4bd171088ab.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ed9e088e0d1541377735691ad46b9e504595bfa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c20a216-a14d-4b19-8085-8a1d445c2f9b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8731d739-1df4-4c22-8d4b-7f89caab9671.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3ebad58-e8e3-4049-97eb-ab119c086a60.jpg)
