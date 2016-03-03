@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bloomerang : A native and water wise garden design and maintenance firm. ]]></title>
-        <description><![CDATA[Bloomerang : A native and water wise garden design and maintenance firm. ]]></description>
+        <title><![CDATA[Bloomerang : Native and water wise landscape company ]]></title>
+        <description><![CDATA[Bloomerang : Native and water wise landscape company ]]></description>
         <link>https://thegrid.ai/bloomerang-native-gardens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 00:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 05:33:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bloomerang-native-gardens/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blue Bells and Succulents Propigating]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:40b8fd58-1df2-421b-8bf4-36bf62cfd37b</link>
             <guid isPermaLink="false">1e102560-17a6-4b9d-8dbe-f246a8d7fabc</guid>
             <pubDate>Tue, 01 Mar 2016 05:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Join Our Mailing List]]></title>
+            <description><![CDATA[<article><h1>Join Our Mailing List</h1><p>Contact:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a639033-2d15-40b9-8f80-5691ce59d6e5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bloomerang-native-gardens/44e225f9-bd90-4db9-ae82-5c8602fec128/index.html</link>
+            <guid isPermaLink="false">44e225f9-bd90-4db9-ae82-5c8602fec128</guid>
+            <pubDate>Thu, 03 Mar 2016 05:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
